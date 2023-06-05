@@ -19,6 +19,7 @@ home_page: https://www.gamefunc.top:9029
   5V -> 12V -> 风扇: 我调到14V, 电压公式自己google: 芯片名 pdf;    
       
 # 捉一周后的蚊量(3个里其中1个):
+![image](https://github.com/gamefunc/sx1308-sy7208-voltage-up-pcb/blob/main/img/00.jpg)
 ![image](https://github.com/gamefunc/sx1308-sy7208-voltage-up-pcb/blob/main/img/0.jpg)
 ![image](https://github.com/gamefunc/sx1308-sy7208-voltage-up-pcb/blob/main/img/1.jpg)
 ![image](https://github.com/gamefunc/sx1308-sy7208-voltage-up-pcb/blob/main/img/2.jpg)
